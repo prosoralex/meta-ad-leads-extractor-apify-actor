@@ -22,7 +22,7 @@ RUN_INPUT = {
     "country": "FR",
     "adStatus": "ACTIVE",
     "maxLeads": 5,
-    "matchAllKeywords": false
+    "matchAllKeywords": False
 }
 
 

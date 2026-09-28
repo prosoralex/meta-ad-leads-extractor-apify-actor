@@ -59,7 +59,7 @@ run_input = {
   "country": "FR",
   "adStatus": "ACTIVE",
   "maxLeads": 5,
-  "matchAllKeywords": false
+  "matchAllKeywords": False
 }
 
 run = client.actor("leadsbrary/meta-ad-leads-extractor").call(run_input=run_input)
